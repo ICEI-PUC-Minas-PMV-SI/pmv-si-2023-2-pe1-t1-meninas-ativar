@@ -1,5 +1,13 @@
 # Introdução
 
+Nos dias atuais, as Áreas de Ciências, Tecnologia, Engenharia e Matemática (STEM) são de extrema importância para construção das profissões do futuro e para o avanço das tecnologias em desenvolvimento, como a Inteligência, Artificial, a Robótica e a Internet das Coisas. Porém, em uma avaliação social, se observa uma grande desigualdade no que diz respeito ao acesso ao ensino desses tecnologias. Considerando a igualdade de gênero, as mulheres somam apenas 31% da força de trabalho STEM, de acordo com o Ministério da Economia, porém, um estudo da McKinnsey & Co revelou que empresas possuidoras de equidade de gênero alcançam lucratividade até 53% maior que outras de mesmo segmento.
+
+Diante disso, o assunto vêm recebendo a atenção da UNESCO nos últimos anos e, em todo o mundo, vêm sendo desenvolvidas iniciativas a fim de aumentar a igualidade de gênero nas áreas de STEM. Paralelamente, uma empresa precisa gerar uma imagem sólida de responsabilidade social, de forma autêntica e íntegra, a fim de gerar impactos positivos na sociedade e conquistar a confiança de seu público.
+
+Portanto, investir em causas sociais passou a ser um item obrigatório para empresas e marcas que buscam se posicionar como agentes de mudanças sociais junto ao mercado consumidor. Além disso, investir em qualificação de força de trabalho diversa significa explorar, também, a diversidade de ideias, aumentando a criatividade e gerando justiça social.
+
+--------------------------------------------
+
 Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
 
 A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
