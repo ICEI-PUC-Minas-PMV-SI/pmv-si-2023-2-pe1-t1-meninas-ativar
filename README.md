@@ -8,7 +8,7 @@
 
 Projeto voltado à promoção e disseminação do ensino de robótica/programação/tecnologia entre meninas de 12 a 19 anos, principalmente alunas de escolas públicas, com a finalidade de combater estereótipos de gênero e favorecer a sua entrada em carreiras da STEM (sigla em inglês para ciências, tecnologia, engenharia e matemática).
 
-## Integrantes
+## Integrante
 
 * Barbara Cristina de Oliveira
 
