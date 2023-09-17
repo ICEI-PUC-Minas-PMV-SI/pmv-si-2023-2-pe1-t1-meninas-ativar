@@ -14,14 +14,25 @@
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`    | QUERO/PRECISO ... `FUNCIONALIDADE`     |PARA ... `MOTIVO/VALOR`                                                                                         |
+|------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------|
+|Aluna                   | Encontrar informação                   | Conhecer o projeto                                                                                             |
+|Aluna                   | Cadastrar Perfil                       | Acessar as aulas e materiais didáticos voltado para alunos                                                     |
+|Professor Usuário       | Encontrar informação                   | Conhecer o projeto                                                                                             |
+|Professor Usuário       | Cadastrar Perfil                       | Acessar as aulas e materiais didáticos voltado para professores                                                |
+|Professor Colaborador   | Encontrar informação                   | Conhecer o projeto                                                                                             |
+|Professor Colaborador   | Cadastrar Perfil                       | Acessar as aulas e materiais didáticos voltado para professores e o calendário de treinamento de colaboradores |
+|Professor Colaborador   | Inscrever-se em Treinamento            | Inscrever-se em turma disponível para Treinamento de colaboradores                                             |
+|Professor Colaborador   | Gerar Agenda de Aulas                  | Gerar agenda de aulas marcadas                                                                                 |
+|Pessoa Jurídica Privada | Encontrar informação                   | Conhecer o projeto                                                                                             |
+|Pessoa Jurídica Privada | Cadastrar Perfil                       | Inscreve-se como investidor                                                                                    |
+|Pessoa Jurídica Privada | Investir                               | Inscrever-se para investir em aula prática em escola pública                                                   |
+|Pessoa Jurídica Privada | Gerar Recibo de Doação                 | Gerar recibo de doação para o IR                                                                               |
+|Escola Pública          | Encontrar informação                   | Conhecer o projeto                                                                                             |
+|Escola Pública          | Cadastrar Perfil                       | Inscreve-se como escola interessada                                                                            |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
