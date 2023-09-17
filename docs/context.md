@@ -18,8 +18,6 @@ Apresentar a ciência desde de cedo às meninas é importante para despertar seu
 
 A Robótica educacional se baseia na técnica "aprenda fazendo" e desenvolve a concentração, a persistência, a criatividade e habilidades matemáticas e computacionais. A Robótica permite o aprendizado multi/interdisciplinar e promove a inclusão digital. Inserir as meninas na robótica é uma quebra de paradigmas e um desafio social e educacional. 
 
-O Projeto **Meninas, ativar!** visa reunir material educacional sobre robótica de forma simplificada para meninas de 12 a 19 anos, informações e materiais didáticos para educadores que desejam incrementar e contextualizar suas aulas com a Robótica e disponibiliza um cadastro de educadores que queiram promover atividades que estimulem as meninas em escolas públicas.
-
 ## Objetivos
 
 O objetivo geral do projeto é desenvolver um software que disponibilize material e informações sobre Robótica de forma simplificada, na forma de vídeos e materiais didáticos, para alunas e educadores que queiram enriquecer suas aulas com a Robótica, além de aproximar educadores e escolas a fim de promover a inclusão de meninas em carreiras STEM.
@@ -34,26 +32,14 @@ Objetivos Específicos:
 
 ## Justificativa
 
+O Projeto **Meninas, ativar!** visa reunir material educacional sobre robótica de forma simplificada para meninas de 12 a 19 anos, informações e materiais didáticos para educadores que desejam incrementar e contextualizar suas aulas com a Robótica, além de disponibilizar um cadastro de educadores que queiram promover atividades que estimulem as meninas em escolas públicas e de empresas locais que desejem patrocinar as aulas práticas nas escolas.
+
 Paralelamente, uma empresa precisa gerar uma imagem sólida de responsabilidade social, de forma autêntica e íntegra, a fim de gerar impactos positivos na sociedade e conquistar a confiança de seu público. Portanto, investir em causas sociais passou a ser um item obrigatório para empresas e marcas que buscam se posicionar como agentes de mudanças sociais junto ao mercado consumidor. 
-
------------------------------------------
-
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Meninas de 12 a 19 anos que estudem em escolas públicas, educadores que queiram enriquecer suas aulas ou desejem promover atividades práticas de Robótica junto às escolas públicas e empresas que queiram patrocinar as aulas práticas de sua região.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
