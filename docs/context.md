@@ -21,9 +21,9 @@ A Robótica educacional se baseia na técnica "aprenda fazendo" e desenvolve a c
 
 ## Objetivos
 
-O objetivo geral do projeto é desenvolver um software que disponibilize material e informações sobre Robótica de forma simplificada, na forma de vídeos e materiais didáticos, para alunas e educadores que queiram enriquecer suas aulas com a Robótica, além de aproximar educadores e escolas a fim de promover a inclusão de meninas em carreiras STEM.
+O **objetivo geral** do projeto é desenvolver um software que disponibilize material e informações sobre Robótica de forma simplificada, na forma de vídeos e materiais didáticos, para alunas e educadores que queiram enriquecer suas aulas com a Robótica, além de aproximar educadores e escolas a fim de promover a inclusão de meninas em carreiras STEM.
 
-Objetivos Específicos:
+**Objetivos Específicos**:
 
 * Disponibilizar informações que dismistifiquem a Robótica como "coisa de menino";
 * Disponibilizar materiais sobre Robótica para alunas, responsáveis e educadores que queiram enriquecer suas aulas;
