@@ -2,7 +2,7 @@
 
 ## Personas
 
-1) Mariana tem 14 anos e está cursando o primeiro ano do ensino médio em uma escola municipal no bairro de Campo Grande. Ela gosta de computadores e da saga Star Wars, mas sua mãe acha que isso é "coisa de menino". Ela acha que não é "boa com números", mas se sente frustrada por não conseguir decidir qual faculdade cursar. Ela viu na internet um curso de Robótica e gostou muito da ideia, mas era muito caro e sua mãe não tinha como pagar. Na sua escola, as feiras de Ciências são raras, pois a escola não possui infraestrutura para manter os laboratórios funcionando, então dificilmente ela tem aulas práticas. Os professores acham Mariana muito inteligente e curiosa e que ela deveria fazer uma faculdade. Ela, por sua vez, está um pouco desanimada, pois várias amigas suas estão abandonando a escola para se casar e/ou cuidar de filhos e ela acha que vai acabar como suas amigas. Ela usa a internet através do seu celular, pois não tem computador em casa, mas usa o da vizinha quando pode.
+1) Mariana tem 14 anos e está cursando o primeiro ano do ensino médio em uma escola municipal no bairro de Campo Grande. Ela gosta de computadores e da saga Star Wars, mas sua mãe acha que isso é "coisa de menino". Ela acha que não é "boa com números", mas se sente frustrada por não conseguir decidir qual faculdade cursar. Ela viu na internet um curso de Robótica e gostou muito da ideia, mas era muito caro e sua mãe não tinha como pagar. Na sua escola, as feiras de Ciências são raras, pois a escola não possui infraestrutura para manter os laboratórios funcionando, então dificilmente ela tem aulas práticas. Os professores acham Mariana muito inteligente e curiosa e que ela deveria fazer uma faculdade. Ela, por sua vez, está um pouco desanimada, pois várias amigas suas estão abandonando a escola para se casar e/ou cuidar de filhos e ela acha que vai acabar como suas amigas. Ela usa a internet através do seu celular, pois não tem computador em casa, mas usa o da vizinha quando pode para pesquisar cursos e atividades gratuitas que possam lhe interessar.
 
 2) Jorge tem 54 anos e é professor de Física em uma escola estadual em Cascadura, dando aulas para adolescente do ensino médio. Ele gosta muito de dar aulas, mas ele não sabe o que fazer para os alunos prestarem mais atenção. As notas dos alunos são baixas e o laboratório está desativado há anos por falta de insumos e equipamentos. Apesar dele amar o que faz, está se sentindo muito frustrado por não conseguir fazer seus alunos aprender. Ele gosta de participar de eventos de capacitação e em um deles viu uma professora utilizando materiais do dia a dia para explicar assuntos de Biologia e ficou maravilhado. Porém, não sabe com adaptar isso para as aulas de Física, pois não se sente muito criativo para tal.
 
@@ -24,8 +24,9 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Professor Usuário       | Cadastrar Perfil                       | Acessar as aulas e materiais didáticos voltado para professores                                                |
 |Professor Colaborador   | Encontrar informação                   | Conhecer o projeto                                                                                             |
 |Professor Colaborador   | Cadastrar Perfil                       | Acessar as aulas e materiais didáticos voltado para professores e o calendário de treinamento de colaboradores |
-|Professor Colaborador   | Inscrever-se em Treinamento            | Inscrever-se em turma disponível para Treinamento de colaboradores                                             |
-|Professor Colaborador   | Gerar Agenda de Aulas                  | Gerar agenda de aulas marcadas                                                                                 |
+|Professor Colaborador   | Inscrever-se em Treinamento            | Inscrever-se em turma disponível para treinamento de colaboradores                                             |
+|Professor Colaborador   | Colaborar                              | Inscrever-se em evento disponível para cadastro de colaboradores                                               |
+|Professor Colaborador   | Gerar Agenda de Aulas                  | Gerar agenda de aulas marcadas (eventos)                                                                       |
 |Pessoa Jurídica Privada | Encontrar informação                   | Conhecer o projeto                                                                                             |
 |Pessoa Jurídica Privada | Cadastrar Perfil                       | Inscreve-se como investidor                                                                                    |
 |Pessoa Jurídica Privada | Investir                               | Inscrever-se para investir em aula prática em escola pública                                                   |
@@ -33,60 +34,42 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Escola Pública          | Encontrar informação                   | Conhecer o projeto                                                                                             |
 |Escola Pública          | Cadastrar Perfil                       | Inscreve-se como escola interessada                                                                            |
 
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade | Responsável |
-|------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
-
+|ID    | Descrição do Requisito                                                                                                    | Prioridade |
+|------|---------------------------------------------------------------------------------------------------------------------------|------------|
+|RF-001| Disponibilizar as informações básicas sobre o projeto                                                                     |    ALTA    |
+|RF-002| Disponibilizar cadastro de perfil (aluna/professor usuário/professor colaborador/pessoa jurídica privada/escola pública)  |    ALTA    |
+|RF-003| Disponibilizar área de perfil (aluna/professor usuário/professor colaborador/pessoa jurídica privada/escola pública)      |    ALTA    |
+|RF-004| Disponibilizar aulas e materiais para alunos                                                                              |    ALTA    |
+|RF-005| Disponibilizar aulas e materiais para professores                                                                         |    ALTA    |
+|RF-006| Disponibilizar agenda de treinamento de professores colaboradores                                                         |    ALTA    |
+|RF-007| Disponibilizar pesquisa de escolas públicas locais para investir (mapa)                                                   |    ALTA    |
+|RF-008| Disponibilizar agenda de aulas marcadas para professor colaborador                                                        |    ALTA    |
+|RF-009| Disponibilizar cadastro de interesse de aula para professores colaboradores treinados                                     |    ALTA    |
+|RF-010| Disponibilizar cadastro de investimento na escola escolhida para o investidor                                             |    ALTA    |
+|RF-011| Disponibilizar recibo de doação para investidor                                                                           |    ALTA    |
+|RF-012| Disponibilizar cadastro de investimento na escola escolhida para o investidor                                             |    ALTA    |
+|RF-013| Disponibilizar blog com últimas notícias sobre o projeto                                                                  |    MÉDIA   |
+|RF-014| Disponibilizar agenda de palestras e eventos especiais                                                                    |    MÉDIA   |
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|ID     | Descrição do Requisito                                                       | Prioridade |
+|-------|------------------------------------------------------------------------------|------------|
+|RNF-001| Deverá ser responsivo para rodar em um dispositivos móveis                   |    ALTA    |
+|RNF-002| Deverá ser disponibilizado em, pelo menos, 90% do tempo                      |    BAIXA   | 
+|RNF-003| Deverá ter tempo de resposta não superior a 3s para solicitação de usuário   |    BAIXA   | 
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|ID| Restrição                                                                   |
+|--|-----------------------------------------------------------------------------|
+|01| Deverá ser entregue até o final do semestre (21/12/2023)                    |
+|02| Deverá ser desenvolvido em HTML, CSS e Javascript                           |
