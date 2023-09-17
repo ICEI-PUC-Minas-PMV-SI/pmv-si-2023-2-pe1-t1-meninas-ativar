@@ -28,11 +28,11 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Professor Colaborador   | Colaborar                              | Inscrever-se em evento disponível para cadastro de colaboradores                                               |
 |Professor Colaborador   | Gerar Agenda de Aulas                  | Gerar agenda de aulas marcadas (eventos)                                                                       |
 |Pessoa Jurídica Privada | Encontrar informação                   | Conhecer o projeto                                                                                             |
-|Pessoa Jurídica Privada | Cadastrar Perfil                       | Inscreve-se como investidor                                                                                    |
+|Pessoa Jurídica Privada | Cadastrar Perfil                       | Inscrever-se como investidor                                                                                    |
 |Pessoa Jurídica Privada | Investir                               | Inscrever-se para investir em aula prática em escola pública                                                   |
 |Pessoa Jurídica Privada | Gerar Recibo de Doação                 | Gerar recibo de doação para o IR                                                                               |
 |Escola Pública          | Encontrar informação                   | Conhecer o projeto                                                                                             |
-|Escola Pública          | Cadastrar Perfil                       | Inscreve-se como escola interessada                                                                            |
+|Escola Pública          | Cadastrar Perfil                       | Inscrever-se como escola interessada                                                                            |
 
 ## Requisitos
 
