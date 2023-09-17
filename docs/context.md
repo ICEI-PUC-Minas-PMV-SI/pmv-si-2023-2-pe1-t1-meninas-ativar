@@ -2,9 +2,15 @@
 
 Nos dias atuais, as Áreas de Ciências, Tecnologia, Engenharia e Matemática (STEM) são de extrema importância para construção das profissões do futuro e para o avanço das tecnologias em desenvolvimento, como a Inteligência Artificial, a Robótica e a Internet das Coisas. Porém, observa-se grandes desigualdades no que diz respeito à escolha, ao acesso e ao ensino dessas tecnologias. Uma delas é a desigualdade de gênero.
 
+De acordo com o Ministério da Economia[^1], as mulheres somam apenas 31% da força de trabalho STEM no Brasil, porém, um estudo da McKinnsey & Co[^2] revelou que empresas possuidoras de equidade de gênero alcançam lucratividade até 53% maior que outras de mesmo segmento. Estes dados revelam a importância em investir no aumento da representatividade feminina nas carreiras STEM. Além disso, investir em qualificação de força de trabalho diversa significa explorar, também, a diversidade de ideias, aumentando a criatividade e gerando justiça social.
+
 Desde a infância são segregadas as brincadeiras "de menina" ou "de menino", tanto na família e quanto na escola. Já na vida adulta, a sociedade cobra das mulheres seus papéis sociais de cuidado à família e maternidade, influenciando suas escolhas e afetando o desenvolvimento de suas carreiras. Um estudo da Universidade de Houston e da Universidade de Washington revelou que os estereótipos de gênero afetam fortemente as escolhas de crianças e jovens quanto a sua carreira no futuro.
 
-Diante disso, o assunto vêm recebendo a atenção da UNESCO nos últimos anos e, em todo o mundo, vêm sendo desenvolvidas iniciativas a fim de promover a igualdade de gênero nas áreas de STEM. 
+Diante disso, o assunto vêm recebendo a atenção da UNESCO[^3] nos últimos anos e, em todo o mundo, vêm sendo desenvolvidas iniciativas a fim de promover a igualdade de gênero nas áreas de STEM.
+
+[^1]: BRASIL. Ministério da Economia. Relação Anual de Informações Sociais (RAIS). Brasília, 2018.
+[^2]: MCKINSEY & CO. Women in the Workplace. Chicago, 2020.
+[^3]: BELLO, Alessandro; ESTÉBANEZ, Maria Elina. Uma equação desequilibrada: Aumentar a participação das mulheres na STEM na LAC. Montevidéu, 2022.
 
 ## Problema
 
@@ -27,8 +33,6 @@ Objetivos Específicos:
 * Disponibilizar um cadastro para empresas que queiram patrocinar as aulas presenciais nas escolas públicas.
 
 ## Justificativa
-
-De acordo com o Ministério da Economia, as mulheres somam apenas 31% da força de trabalho STEM no Brasil, porém, um estudo da McKinnsey & Co revelou que empresas possuidoras de equidade de gênero alcançam lucratividade até 53% maior que outras de mesmo segmento. Estes dados revelam a importância em investir no aumento da representatividade feminina nas carreiras STEM. Além disso, investir em qualificação de força de trabalho diversa significa explorar, também, a diversidade de ideias, aumentando a criatividade e gerando justiça social.
 
 Paralelamente, uma empresa precisa gerar uma imagem sólida de responsabilidade social, de forma autêntica e íntegra, a fim de gerar impactos positivos na sociedade e conquistar a confiança de seu público. Portanto, investir em causas sociais passou a ser um item obrigatório para empresas e marcas que buscam se posicionar como agentes de mudanças sociais junto ao mercado consumidor. 
 
