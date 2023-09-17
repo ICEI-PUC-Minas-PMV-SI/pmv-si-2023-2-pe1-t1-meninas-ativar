@@ -1,24 +1,16 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+1) Mariana tem 14 anos e está cursando o primeiro ano do ensino médio em uma escola municipal no bairro de Campo Grande. Ela gosta de computadores e da saga Star Wars, mas sua mãe acha que isso é "coisa de menino". Ela acha que não é "boa com números", mas se sente frustrada por não conseguir decidir qual faculdade cursar. Ela viu na internet um curso de Robótica e gostou muito da ideia, mas era muito caro e sua mãe não tinha como pagar. Na sua escola, as feiras de Ciências são raras, pois a escola não possui infraestrutura para manter os laboratórios funcionando, então dificilmente ela tem aulas práticas. Os professores acham Mariana muito inteligente e curiosa e que ela deveria fazer uma faculdade. Ela, por sua vez, está um pouco desanimada, pois várias amigas suas estão abandonando a escola para se casar e/ou cuidar de filhos e ela acha que vai acabar como suas amigas. Ela usa a internet através do seu celular, pois não tem computador em casa, mas usa o da vizinha quando pode.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+2) Jorge tem 54 anos e é professor de Física em uma escola estadual em Cascadura, dando aulas para adolescente do ensino médio. Ele gosta muito de dar aulas, mas ele não sabe o que fazer para os alunos prestarem mais atenção. As notas dos alunos são baixas e o laboratório está desativado há anos por falta de insumos e equipamentos. Apesar dele amar o que faz, está se sentindo muito frustrado por não conseguir fazer seus alunos aprender. Ele gosta de participar de eventos de capacitação e em um deles viu uma professora utilizando materiais do dia a dia para explicar assuntos de Biologia e ficou maravilhado. Porém, não sabe com adaptar isso para as aulas de Física, pois não se sente muito criativo para tal.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+3) Elizabeth tem 45 anos e é diretora de uma escola municipal em Caxias. Ela é muito proativa e gostaria de mudar a realidade dos alunos de sua escola. Professora de Matemática de formação, ela própria tem uma história de desafios que conta com muito orgulho. Mulher, negra e pobre, conseguiu fazer faculdade pública com muito sacrifício e agora, como diretora, sonha em melhorar a infraestrutura de sua escola. Atualmente, já possui várias iniciativas de atividades de visita a museus, instituições e universidades para que seus alunos possam conhecer o máximo de opções que elas podem ter ao se formar. Porém, ela ainda encontra um pouco de resistência das meninas em participar de atividades que envolvam Ciências Exatas. O laboratório de Informática é modesto, mas ela sonha em oferecer alguma atividade com o pouco que tem, porém não há professores capacitados para tal no momento.
+
+4) Gisele tem 37 anos e é formada em Ciência da Computação. Ela presta serviços na área de Internet das Coisas em uma empresa privada e dá aula em uma Universidade Pública para vários cursos da Área de Exatas. Seu sonho sempre foi fazer trabalhos voluntários na área de educação e, por isso, já participou de diversos projetos, inclusive durante sua faculdade. Ela lembra que, da turma dela, só tinha ela e mais duas meninas, e todo resto da turma era de homens. Era o que gostava de fazer, mas isso sempre a incomodou, e lembra como foi difícil enfrentar os preconceitos da família, dos colegas e dos professores homens. Ela gostaria de ajudar meninas que, como ela, gostam de computadores, mas tem receio por achar que esses cursos "são pra homens". Ela não sabe por onde começar, nem como poderia ajudar, mas está aberta para iniciativas que levem coragem pra essas meninas.
+
+5) Pedro tem 49 anos e possui uma loja de embalagens em sociedade com sua esposa, Fernanda, em Jacarepaguá. O casal tem uma filha, Helena, de 12 anos, estudante em uma escola particular que oferece aulas de Robótica e Informática para seus alunos. Ele ficou impressionado quando a filha levou para casa um dos projetos para mostrar a seus pais. Pedro nunca estudou em escolas privadas e lembrou que na sua escola nunca teve infraestrutura pra isso. Fernanda, que estava fazendo uma pós-graduação, disse a ele que em sua faculdade havia projetos de extensão que faziam atividades desse tipo em algumas escolas públicas e ele ficou encantado e queria muito ajudar, mas não sabia como. Ele já reservava parte de seus lucros para atividades em sua própria comunidade, o que o tornava benquisto na região por estar sempre colaborando em projetos sociais.
 
 ## Histórias de Usuários
 
