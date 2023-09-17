@@ -26,24 +26,21 @@ O objetivo geral do projeto é desenvolver um software que disponibilize materia
 Objetivos Específicos:
 
 * Disponibilizar informações que dismistifiquem a Robótica como "coisa de menino";
-* Disponibilizar materiais sobre Robótica para alunas e para educadores que queiram enriquecer suas aulas;
+* Disponibilizar materiais sobre Robótica para alunas, responsáveis e educadores que queiram enriquecer suas aulas;
 * Disponibilizar um cadastro para educadores que queiram promover atividades práticas de Robótica junto à escolas públicas;
 * Disponibilizar um cadastro para escolas públicas que desejam oferecer às suas alunas as atividades experimentais presenciais;
 * Disponibilizar um cadastro para empresas que queiram patrocinar as aulas presenciais nas escolas públicas.
 
 ## Justificativa
 
-O Projeto **Meninas, ativar!** visa reunir material educacional sobre robótica de forma simplificada para meninas de 12 a 19 anos, informações e materiais didáticos para educadores que desejam incrementar e contextualizar suas aulas com a Robótica, além de disponibilizar um cadastro de educadores que queiram promover atividades que estimulem as meninas em escolas públicas e de empresas locais que desejem patrocinar as aulas práticas nas escolas.
+O Projeto **Meninas, ativar!** visa reunir material educacional sobre robótica de forma simplificada para meninas de 12 a 19 anos, informações para os responsáveis que queiram se informar sobre como apoiar suas filhas e materiais didáticos para educadores que desejam incrementar e contextualizar suas aulas com a Robótica, além de disponibilizar um cadastro de educadores que queiram promover atividades que estimulem as meninas em escolas públicas e de empresas locais que desejem patrocinar as aulas práticas nas escolas.
 
-Paralelamente, uma empresa precisa gerar uma imagem sólida de responsabilidade social, de forma autêntica e íntegra, a fim de gerar impactos positivos na sociedade e conquistar a confiança de seu público. Portanto, investir em causas sociais passou a ser um item obrigatório para empresas e marcas que buscam se posicionar como agentes de mudanças sociais junto ao mercado consumidor. 
+Considerando ser um investimento de longo prazo, uma empresa precisa gerar uma imagem sólida de responsabilidade social, de forma autêntica e íntegra, a fim de gerar impactos positivos na sociedade e conquistar a confiança de seu público. Portanto, investir em causas sociais passou a ser um item obrigatório para empresas e marcas que buscam se posicionar como agentes de mudanças sociais junto ao mercado consumidor. 
 
 ## Público-Alvo
 
 * Meninas de 12 a 19 anos que estudem em escolas públicas;
+* Responsáveis que queiram se informar sobre como apoiar suas filhas;
 * Educadores que queiram enriquecer suas aulas;
 * Educadores que queiram promover atividades práticas de Robótica junto às escolas públicas;
 * Empresas que queiram patrocinar as aulas práticas de sua região.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-
