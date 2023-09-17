@@ -38,7 +38,10 @@ Paralelamente, uma empresa precisa gerar uma imagem sólida de responsabilidade 
 
 ## Público-Alvo
 
-Meninas de 12 a 19 anos que estudem em escolas públicas, educadores que queiram enriquecer suas aulas ou desejem promover atividades práticas de Robótica junto às escolas públicas e empresas que queiram patrocinar as aulas práticas de sua região.
+* Meninas de 12 a 19 anos que estudem em escolas públicas;
+* Educadores que queiram enriquecer suas aulas;
+* Educadores que queiram promover atividades práticas de Robótica junto às escolas públicas;
+* Empresas que queiram patrocinar as aulas práticas de sua região.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
