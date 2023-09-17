@@ -4,13 +4,14 @@ Nos dias atuais, as Áreas de Ciências, Tecnologia, Engenharia e Matemática (S
 
 De acordo com o Ministério da Economia[^1], as mulheres somam apenas 31% da força de trabalho STEM no Brasil, porém, um estudo da McKinnsey & Co[^2] revelou que empresas possuidoras de equidade de gênero alcançam lucratividade até 53% maior que outras de mesmo segmento. Estes dados revelam a importância em investir no aumento da representatividade feminina nas carreiras STEM. Além disso, investir em qualificação de força de trabalho diversa significa explorar, também, a diversidade de ideias, aumentando a criatividade e gerando justiça social.
 
-Desde a infância são segregadas as brincadeiras "de menina" ou "de menino", tanto na família e quanto na escola. Já na vida adulta, a sociedade cobra das mulheres seus papéis sociais de cuidado à família e maternidade, influenciando suas escolhas e afetando o desenvolvimento de suas carreiras. Um estudo da Universidade de Houston e da Universidade de Washington revelou que os estereótipos de gênero afetam fortemente as escolhas de crianças e jovens quanto a sua carreira no futuro.
+Desde a infância, as brincadeiras "de menina" ou "de menino" são segregadas, tanto na família quanto na escola. Já na vida adulta, a sociedade cobra das mulheres seus papéis sociais de cuidado à família e maternidade, influenciando suas escolhas e afetando o desenvolvimento de suas carreiras. Um estudo da Universidade de Houston e da Universidade de Washington[^3] revelou que os estereótipos de gênero afetam fortemente as escolhas de crianças e jovens quanto a sua carreira no futuro.
 
-Diante disso, o assunto vêm recebendo a atenção da UNESCO[^3] nos últimos anos e, em todo o mundo, vêm sendo desenvolvidas iniciativas a fim de promover a igualdade de gênero nas áreas de STEM.
+Diante disso, o assunto vêm recebendo a atenção da UNESCO[^4] nos últimos anos e, em todo o mundo, vêm sendo desenvolvidas iniciativas a fim de promover a igualdade de gênero nas áreas de STEM.
 
-[^1]: BRASIL. Ministério da Economia. Relação Anual de Informações Sociais (RAIS). Brasília, 2018.
-[^2]: MCKINSEY & CO. Women in the Workplace. Chicago, 2020.
-[^3]: BELLO, Alessandro; ESTÉBANEZ, Maria Elina. Uma equação desequilibrada: Aumentar a participação das mulheres na STEM na LAC. Montevidéu, 2022.
+[^1]: BRASIL. Ministério da Economia. Relação Anual de Informações Sociais (RAIS). Brasília, 2018. Disponível em: <http://pdet.mte.gov.br/images/rais2018/nacionais/3-sumario.pdf>. Acesso em: 8 set. 2023.
+[^2]: MCKINSEY & CO. Women in the Workplace. Chicago, 2020. Disponível em: <https://womenintheworkplace.com/>. Acesso em: 8 set. 2023.
+[^3]: MASTER, A; MELTZOFF, A. N.; CHERYAN, S. Gender stereotypes about interests start early and cause gender disparities in computer science and engineering. PNAS, v. 118, n. 48, nov. 2021. Disponível em: <https://www.pnas.org/doi/full/10.1073/pnas.2100030118>. Acesso em: 8 set. 2023.
+[^4]: BELLO, A.; ESTÉBANEZ, M. E. Uma equação desequilibrada: Aumentar a participação das mulheres na STEM na LAC. UNESCO, Montevidéu, 2022. Disponível em: <https://www.britishcouncil.org.br/sites/default/files/policypapers-cilac-gender-pt.pdf>. Acesso em: 8 set. 2023.
 
 ## Problema
 
