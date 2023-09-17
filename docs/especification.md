@@ -40,36 +40,36 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito                                                                                                    | Prioridade |
-|------|---------------------------------------------------------------------------------------------------------------------------|------------|
-|RF-001| Disponibilizar as informações básicas sobre o projeto                                                                     |    ALTA    |
-|RF-002| Disponibilizar cadastro de perfil (aluna/professor usuário/professor colaborador/pessoa jurídica privada/escola pública)  |    ALTA    |
-|RF-003| Disponibilizar área de perfil (aluna/professor usuário/professor colaborador/pessoa jurídica privada/escola pública)      |    ALTA    |
-|RF-004| Disponibilizar aulas e materiais para alunos                                                                              |    ALTA    |
-|RF-005| Disponibilizar aulas e materiais para professores                                                                         |    ALTA    |
-|RF-006| Disponibilizar agenda de treinamento de professores colaboradores                                                         |    ALTA    |
-|RF-007| Disponibilizar pesquisa de escolas públicas locais para investir (mapa)                                                   |    ALTA    |
-|RF-008| Disponibilizar agenda de aulas marcadas para professor colaborador                                                        |    ALTA    |
-|RF-009| Disponibilizar cadastro de interesse de aula para professores colaboradores treinados                                     |    ALTA    |
-|RF-010| Disponibilizar cadastro de investimento na escola escolhida para o investidor                                             |    ALTA    |
-|RF-011| Disponibilizar recibo de doação para investidor                                                                           |    ALTA    |
-|RF-012| Disponibilizar cadastro de investimento na escola escolhida para o investidor                                             |    ALTA    |
-|RF-013| Disponibilizar blog com últimas notícias sobre o projeto                                                                  |    MÉDIA   |
-|RF-014| Disponibilizar agenda de palestras e eventos especiais                                                                    |    MÉDIA   |
+|ID      | Descrição do Requisito                                                                                                    | Prioridade |
+|--------|---------------------------------------------------------------------------------------------------------------------------|------------|
+| RF-001 | Disponibilizar as informações básicas sobre o projeto                                                                     |    ALTA    |
+| RF-002 | Disponibilizar cadastro de perfil (aluna/professor usuário/professor colaborador/pessoa jurídica privada/escola pública)  |    ALTA    |
+| RF-003 | Disponibilizar área de perfil (aluna/professor usuário/professor colaborador/pessoa jurídica privada/escola pública)      |    ALTA    |
+| RF-004 | Disponibilizar aulas e materiais para alunos                                                                              |    ALTA    |
+| RF-005 | Disponibilizar aulas e materiais para professores                                                                         |    ALTA    |
+| RF-006 | Disponibilizar agenda de treinamento de professores colaboradores                                                         |    ALTA    |
+| RF-007 | Disponibilizar pesquisa de escolas públicas locais para investir (mapa)                                                   |    ALTA    |
+| RF-008 | Disponibilizar agenda de aulas marcadas para professor colaborador                                                        |    ALTA    |
+| RF-009 | Disponibilizar cadastro de interesse de aula para professores colaboradores treinados                                     |    ALTA    |
+| RF-010 | Disponibilizar cadastro de investimento na escola escolhida para o investidor                                             |    ALTA    |
+| RF-011 | Disponibilizar recibo de doação para investidor                                                                           |    ALTA    |
+| RF-012 | Disponibilizar cadastro de investimento na escola escolhida para o investidor                                             |    ALTA    |
+| RF-013 | Disponibilizar blog com últimas notícias sobre o projeto                                                                  |    MÉDIA   |
+| RF-014 | Disponibilizar agenda de palestras e eventos especiais                                                                    |    MÉDIA   |
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito                                                       | Prioridade |
-|-------|------------------------------------------------------------------------------|------------|
-|RNF-001| Deverá ser responsivo para rodar em um dispositivos móveis                   |    ALTA    |
-|RNF-002| Deverá ser disponibilizado em, pelo menos, 90% do tempo                      |    BAIXA   | 
-|RNF-003| Deverá ter tempo de resposta não superior a 3s para solicitação de usuário   |    BAIXA   | 
+|ID       | Descrição do Requisito                                                       | Prioridade |
+|---------|------------------------------------------------------------------------------|------------|
+| RNF-001 | Deverá ser responsivo para rodar em um dispositivos móveis                   |    ALTA    |
+| RNF-002 | Deverá ser disponibilizado em, pelo menos, 90% do tempo                      |    BAIXA   | 
+| RNF-003 | Deverá ter tempo de resposta não superior a 3s para solicitação de usuário   |    BAIXA   | 
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                                                   |
-|--|-----------------------------------------------------------------------------|
-|01| Deverá ser entregue até o final do semestre (21/12/2023)                    |
-|02| Deverá ser desenvolvido em HTML, CSS e Javascript                           |
+| ID | Restrição                                                                   |
+|----|-----------------------------------------------------------------------------|
+| 01 | Deverá ser entregue até o final do semestre (21/12/2023)                    |
+| 02 | Deverá ser desenvolvido em HTML, CSS e Javascript                           |
