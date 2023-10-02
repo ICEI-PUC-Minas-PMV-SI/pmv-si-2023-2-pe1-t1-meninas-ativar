@@ -5,7 +5,7 @@ O projeto de interface foi desenvolvido com telas simples e leves, navegação f
 
 ## User Flow
 
-![Userflow](img/grafico.png)
+![Userflow](img/graficomeninas.png)
 
 ## Wireframes
 
