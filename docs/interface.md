@@ -19,5 +19,7 @@ A tela Inicial apresenta as funções básicas do website: Conhecer o projeto e 
 
 ![Wireframe - Home](img/Wireframe.png)
 
+### Área do Usuário (Aluna, Professor Usuário e Professor Colaborador)
+
 Ao se logar, os perfis Aluna, Professor Usuário e Professor Colaborador terão como tela principal ao logar a tela abaixo:
 ![Wireframe - Home](img/wireframeArea.png)
