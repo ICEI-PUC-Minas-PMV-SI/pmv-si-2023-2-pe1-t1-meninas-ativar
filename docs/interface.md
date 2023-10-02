@@ -1,19 +1,23 @@
 
 # Projeto de Interface
 
-O projeto de interface foi desenvolvido com telas simples e leves, navegação fácil e cores marcantes. O site é responsivo, com poucos elementos gráficos, a fim de que fosse adaptável a diversas telas e navegadores.
+O projeto de interface do website *Meninas, ativar!* foi desenvolvido com um design simples e telas leves. O site é responsivo, com poucos elementos gráficos, a fim de que fosse adaptável a diversas telas e navegadores. Com navegação fácil e cores marcantes, sua interface é agradávek, atraente e eficiente, não sendo necessárias muitas instruções para utilizá-la.
 
 ## User Flow
+
+Abaixo, segue o fluxo do usuário em suas principais funções:
 
 ![Userflow](img/graficomeninas.png)
 
 ## Wireframes
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+As telas deste projeto não possuem muita diversidade, tornando sua estrutura extremamente simples e familiar. 
 
-### Exemplo
+### Tela Inicial
 
-A tela Inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade.
+A tela Inicial apresenta as funções básicas do website: Conhecer o projeto e Inscrever-se com algum tipo de perfil. 
 
 ![Wireframe - Home](img/Wireframe.png)
+
+Ao se logar, os perfis Aluna, Professor Usuário e Professor Colaborador terão como tela principal ao logar a tela abaixo:
 ![Wireframe - Home](img/wireframeArea.png)
