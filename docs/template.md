@@ -17,10 +17,11 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 ## Tipografia
 
 Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
-
+![Tipografia - Site](img/fontes_sites.png)
 
 ## Iconografia
 
+![Iconografia](img/icones.png)
 Defina os ícones que serão utilizados e suas respectivas funções.
 
 Apresente os estilos CSS criados para cada um dos elementos apresentados.
