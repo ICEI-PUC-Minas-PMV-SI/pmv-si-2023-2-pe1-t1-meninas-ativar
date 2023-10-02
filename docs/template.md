@@ -4,12 +4,12 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 Explique as guias de estilo utilizadas no seu projeto.
 
-![Paleta de Cores](img/paleta.png)
+
 
 ## Design
 
 Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
-
+![Template](img/Frame 1000003433.png)
 
 ## Cores
 ![Paleta de Cores](img/paleta.png)
