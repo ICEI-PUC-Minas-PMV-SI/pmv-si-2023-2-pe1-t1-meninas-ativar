@@ -4,7 +4,9 @@
 
 ## Design
 
-![Template](img/Frame_1000003433.png)
+![Template](img/logo.png)
+
+![Template](img/font_logo.png)
 
 ## Cores
 
