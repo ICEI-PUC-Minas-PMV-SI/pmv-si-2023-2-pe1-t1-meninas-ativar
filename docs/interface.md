@@ -7,7 +7,7 @@
 
 <p>Abaixo, segue o fluxo do usuário em suas principais funções:</p>
 
-![Userflow](img/graficomeninas.png)
+![Userflow](img/userflow.png)
 
 ## Wireframes
 
